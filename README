@@ -1,0 +1,12 @@
+Mail::Quotify
+
+This package uses Gabor Egressy's Text::Format package and some magic to
+allow adjustable word-wrap in quotified text.  It is distributed under
+version 2 of the GPL.  If you have any questions, contact Chuck Hardin
+<chardin@savageoasis.fc.net>.
+
+To install the module:
+
+perl Makefile.PL
+make
+make install
